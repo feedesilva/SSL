@@ -15,3 +15,5 @@ iv.	Ejecute el programa con la salida redireccionada a un archivo output.txt; ve
 
   
 **Hipótesis**: Se desarrolla un programa que emite "hello world" por consola
+
+Compilador elegido: C18
